@@ -25,7 +25,7 @@ using namespace std::tr1;
 #define EP_HASH_OPCODES_MAX 100
 
 // 10MB
-#define MAX_SECTION_SIZE (1024 * 1000) * 60
+#define MAX_SECTION_SIZE (1024 * 1000) * 200
 
 class pe_hash_database;
 
